@@ -16,6 +16,7 @@ h1 {
     text-align: center;
     padding-bottom: 4px;
 }
+
 h2 {
     font-size: 1.3rem;
     color: white;
@@ -188,6 +189,10 @@ footer {
     .services {
         flex-basis: 25%;
     }
+    
+    h2 {
+    font-size: 2rem;
+    }    
 }
 
 @media only screen and (min-width: 1600px) {
